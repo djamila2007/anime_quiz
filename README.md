@@ -1,17 +1,66 @@
-# anime_quiz_final
+# 🎮 Anime Quiz
 
-A new Flutter project.
+Application mobile développée avec **Flutter** dans le cadre du projet tutoré de 2ᵉ année IT.
 
-## Getting Started
+## 📱 Description
 
-This project is a starting point for a Flutter application.
+Anime Quiz est une application permettant aux utilisateurs de tester leurs connaissances sur plusieurs mangas et animes populaires grâce à des quiz interactifs.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fonctionnalités
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Choix de plusieurs catégories d'anime
+- Questions à choix multiples
+- Calcul automatique du score
+- Affichage du résultat final
+- Écran des statistiques
+- Écran des paramètres
+- Possibilité de recommencer un quiz
+- Interface moderne et intuitive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Catégories disponibles
+
+- Naruto
+- One Piece
+- Dragon Ball
+- Demon Slayer
+- Attack on Titan
+- Jujutsu Kaisen
+
+## 🛠️ Technologies utilisées
+
+- Flutter
+- Dart
+- Material Design
+
+## 📸 Captures d'écran
+
+Ajoutez ici les captures d'écran de l'application.
+
+Exemple :
+
+![Accueil](screenshots/accueil.png)
+
+![Catégories](screenshots/categories.png)
+
+![Quiz](screenshots/quiz.png)
+
+![Résultat](screenshots/resultat.png)
+
+## 🚀 Installation
+
+```bash
+git clone <url-du-depot>
+cd anime_quiz
+flutter pub get
+flutter run
+```
+
+## 👤 Auteur
+
+Projet réalisé par :
+
+- Djamila Barra
+
+## 📄 Licence
+
+Projet réalisé dans le cadre du projet tutoré de Développement d'Applications Mobiles avec Flutter.
