@@ -38,7 +38,7 @@ Ajoutez ici les captures d'écran de l'application.
 
 Exemple :
 
-![Accueil](screenshots/accueil.png)
+![Accueil](C:\Users\LENOVO\Pictures\Screenshots\accueil.png)
 
 ![Animés disponible](screenshots/anime.png)
 
