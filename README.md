@@ -8,7 +8,7 @@ Anime Quiz est une application permettant aux utilisateurs de tester leurs conna
 
 ## ✨ Fonctionnalités
 
-- Choix de plusieurs catégories d'anime
+- Choix de plusieurs Animés
 - Questions à choix multiples
 - Calcul automatique du score
 - Affichage du résultat final
@@ -17,7 +17,7 @@ Anime Quiz est une application permettant aux utilisateurs de tester leurs conna
 - Possibilité de recommencer un quiz
 - Interface moderne et intuitive
 
-## 📚 Catégories disponibles
+## 📚 Animés disponibles
 
 - Naruto
 - One Piece
@@ -40,7 +40,7 @@ Exemple :
 
 ![Accueil](screenshots/accueil.png)
 
-![Catégories](screenshots/categories.png)
+![Animés disponible](screenshots/anime.png)
 
 ![Quiz](screenshots/quiz.png)
 
